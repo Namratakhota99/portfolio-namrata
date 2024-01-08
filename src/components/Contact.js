@@ -46,7 +46,7 @@ function Contact() {
                         </form>
                     </div>
                     <div className='lg:w-[50%]'>
-                        <img src={contact} alt="any image" />
+                        <img src={contact} alt="" />
 
                     </div>
 

@@ -2,7 +2,7 @@ import React from 'react'
 import Tilt from 'react-parallax-tilt';
 import { Styles } from '../utils/Style';
 import { technologies, services } from '../constants';
-import { motion } from 'framer-motion'
+// import { motion } from 'framer-motion'
 import './style.css'
 
 function Overview() {
