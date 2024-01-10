@@ -9,20 +9,20 @@ import '../App.css';
 function About() {
     return (
         <div className="flex flex-wrap justify-center items-center mt-5 p-5" id='Home'>
-            <div className='flex-1 py-1'>
+            <div className='flex-1 p-0 m-0'>
                 <span className={Styles.heroHeadText}>
                     Hi, I'm <span className='text-orange-600'>
                         Namrata Khot
                     </span>
                     <br />
-                    <span className={Styles.heroSubText}>
+                    <span className={Styles.heroSubText} >
                         I am Fresher Looking Out for a Job
                         <br/>
-                        Interested in Software Development Role
+                        excited to kick-start my journey as a Java/Python Developer or Web Enthusiast.
                     </span>
                 </span>
                 <br></br>
-                <div className='w-[14ren]'>
+                <div className='w-[14rem]'>
                     <a href={Resume}
                         download="Resume"
                         target='blank'

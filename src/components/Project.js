@@ -38,7 +38,7 @@ function Project() {
                 <div className='text-2xl text-violet-600 font-extrabold text-center mb-3'>
                   {project.name}
                 </div>
-                <img className='h-[200px] w-[250px] self-center border-2 border-pink-200 m-2
+                <img className='h-[200px] w-[250px] self-center border-2 border-pink-200 m-0
                 rounded-2xl mb-3' src={project.image} alt={project.name} />
 
                 

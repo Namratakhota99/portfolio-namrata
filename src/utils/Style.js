@@ -1,10 +1,10 @@
 const Styles = {
 
     heroHeadText:
-        "text-violet-600 lg:text-[60px] sm:text-[30px] xs:text-[20px] text-[20px] lg:leading-[78px]" ,
+        "text-violet-800 lg:text-[80px] sm:text-[60px] xs:text-[40px] text-[40px] lg:leading-[98px]" ,
 
     heroSubText:
-        "text-violet-700 font-medium lg-text-[20px] sm:text-[24px] xs:text-[18px] text-[14px] lg:leading-[20px] ",
+        "text-violet-700 font-medium lg-text-[30px] sm:text-[26px] xs:text-[20px] text-[16px] lg:leading-[40px] ",
 
     sectionHeadText:
         "text-violet-600 pl-8 md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px] ",
